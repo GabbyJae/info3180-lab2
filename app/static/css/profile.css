@@ -1,0 +1,22 @@
+img{
+    float: left;
+    margin: 5px;
+}
+
+.title{
+    font-weight: bold;
+}
+
+.block{
+    padding: 5px;
+    border-radius: 15px;
+    background-color: lightgray;
+}
+
+#myinfo{
+    float: left;
+    width: 500px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid lightgray;
+}
