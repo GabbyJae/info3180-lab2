@@ -64,6 +64,5 @@ def format_date_joined():
     date_joined = datetime.date(2020, 2, 9)
     print "Joined " + date_joined.strftime(""%B, %Y"") 
 
-
 if __name__ == '__main__':
     app.run(debug=True, host="0.0.0.0", port="8080")
